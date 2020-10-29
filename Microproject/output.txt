@@ -1,0 +1,17 @@
+Тест №1:
+Yes, it is a square!
+
+Тест №2:
+No, it is not a square.
+
+Тест №3:
+No, it is not a square.
+
+Тест №4:
+No, it is not a square.
+
+Тест №5:
+Yes, it is a square!
+
+Тест №6:
+Yes, it is a square!
