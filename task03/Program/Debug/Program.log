@@ -1,0 +1,11 @@
+﻿  Program.cpp
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(29,54): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(29,32): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(72,44): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(73,47): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(75,25): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(102,29): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(102,11): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(112,15): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Program.cpp(118,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Program.vcxproj -> D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Debug\Program.exe
