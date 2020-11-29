@@ -1,0 +1,4 @@
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Debug\Program.exe
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework 3\Program\Debug\Program.pdb
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework\task04\Program\Debug\Program.exe
+D:\David\Учёба\ВШЭ\2 курс\Assembler\Homework\task04\Program\Debug\Program.pdb

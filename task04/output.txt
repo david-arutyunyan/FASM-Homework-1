@@ -1,0 +1,14 @@
+Тест №1:
+	-123
+
+Тест №2:
+	5171639847
+
+Тест №3:
+	Invalid dimension of the square matrix!
+
+Тест №4:
+	Invalid dimension of the square matrix!
+
+Тест №5:
+	-456508302
