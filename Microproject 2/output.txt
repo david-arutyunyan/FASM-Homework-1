@@ -1,0 +1,1018 @@
+	Тест №1:
+[Timer: 0.252929] Bee 2 filled the pot. Pot: 1 / 5
+[Timer: 0.504622] Bee 3 filled the pot. Pot: 2 / 5
+[Timer: 0.755899] Bee 1 filled the pot. Pot: 3 / 5
+[Timer: 1.00761] Bee 2 filled the pot. Pot: 4 / 5
+[Timer: 1.25897] Bee 3 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 1.51131] Bee 3 woke up the bear
+--> [Timer: 1.52075] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 2.02247] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 2.27381] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 2.52566] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 2.77807] Bee 2 filled the pot. Pot: 4 / 5
+[Timer: 3.03016] Bee 1 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 3.28251] Bee 1 woke up the bear
+--> [Timer: 3.28361] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 3.7856] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 4.03798] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 4.28981] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 4.54173] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 4.79366] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 5.04499] Bee 2 woke up the bear
+--> [Timer: 5.04636] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 5.5478] Bee 1 filled the pot. Pot: 1 / 5
+[Timer: 5.80018] Bee 2 filled the pot. Pot: 2 / 5
+[Timer: 6.0523] Bee 1 filled the pot. Pot: 3 / 5
+[Timer: 6.30442] Bee 3 filled the pot. Pot: 4 / 5
+[Timer: 6.55662] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 6.8075] Bee 2 woke up the bear
+--> [Timer: 6.80981] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 7.31217] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 7.56355] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 7.81531] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 8.06633] Bee 3 filled the pot. Pot: 4 / 5
+[Timer: 8.31837] Bee 1 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 8.56982] Bee 1 woke up the bear
+--> [Timer: 8.57107] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 9.07241] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 9.32391] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 9.57594] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 9.82837] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 10.0807] Bee 3 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 10.334] Bee 3 woke up the bear
+--> [Timer: 10.3368] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 10.8406] Bee 1 filled the pot. Pot: 1 / 5
+[Timer: 11.093] Bee 2 filled the pot. Pot: 2 / 5
+[Timer: 11.3445] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 11.5968] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 11.8482] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 12.1005] Bee 2 woke up the bear
+--> [Timer: 12.1103] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 12.6143] Bee 2 filled the pot. Pot: 1 / 5
+[Timer: 12.8674] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 13.1214] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 13.3753] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 13.6276] Bee 3 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 13.882] Bee 3 woke up the bear
+--> [Timer: 13.8886] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 14.3935] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 14.6459] Bee 2 filled the pot. Pot: 2 / 5
+[Timer: 14.8991] Bee 1 filled the pot. Pot: 3 / 5
+[Timer: 15.1509] Bee 3 filled the pot. Pot: 4 / 5
+[Timer: 15.4031] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 15.655] Bee 2 woke up the bear
+--> [Timer: 15.6588] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 16.1609] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 16.413] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 16.6655] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 16.9199] Bee 3 filled the pot. Pot: 4 / 5
+[Timer: 17.1727] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 17.4245] Bee 2 woke up the bear
+--> [Timer: 17.4316] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 17.9361] Bee 2 filled the pot. Pot: 1 / 5
+[Timer: 18.1886] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 18.4411] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 18.6935] Bee 3 filled the pot. Pot: 4 / 5
+[Timer: 18.9459] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 19.1973] Bee 2 woke up the bear
+--> [Timer: 19.1999] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 19.7019] Bee 1 filled the pot. Pot: 1 / 5
+[Timer: 19.9534] Bee 2 filled the pot. Pot: 2 / 5
+[Timer: 20.2056] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 20.4579] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 20.7099] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 20.9626] Bee 2 woke up the bear
+--> [Timer: 20.965] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 21.467] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 21.7212] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 21.9745] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 22.2259] Bee 3 filled the pot. Pot: 4 / 5
+[Timer: 22.4781] Bee 1 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 22.73] Bee 1 woke up the bear
+--> [Timer: 22.7386] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 23.243] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 23.4946] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 23.7467] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 23.9991] Bee 3 filled the pot. Pot: 4 / 5
+[Timer: 24.2511] Bee 1 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 24.5036] Bee 1 woke up the bear
+--> [Timer: 24.5063] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 25.0082] Bee 1 filled the pot. Pot: 1 / 5
+[Timer: 25.2595] Bee 3 filled the pot. Pot: 2 / 5
+[Timer: 25.5116] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 25.7651] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 26.0182] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 26.2725] Bee 2 woke up the bear
+--> [Timer: 26.2784] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 26.7823] Bee 2 filled the pot. Pot: 1 / 5
+[Timer: 27.0354] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 27.2894] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 27.5435] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 27.7967] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 28.0512] Bee 2 woke up the bear
+--> [Timer: 28.0564] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 28.5585] Bee 2 filled the pot. Pot: 1 / 5
+[Timer: 28.8124] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 29.0658] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 29.318] Bee 2 filled the pot. Pot: 4 / 5
+[Timer: 29.5693] Bee 1 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 29.8207] Bee 1 woke up the bear
+--> [Timer: 29.8306] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 30.3323] Bee 2 filled the pot. Pot: 1 / 5
+[Timer: 30.5853] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 30.8375] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 31.0891] Bee 2 filled the pot. Pot: 4 / 5
+[Timer: 31.3412] Bee 3 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 31.5935] Bee 3 woke up the bear
+--> [Timer: 31.5991] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 32.1023] Bee 1 filled the pot. Pot: 1 / 5
+[Timer: 32.3553] Bee 3 filled the pot. Pot: 2 / 5
+[Timer: 32.6078] Bee 2 filled the pot. Pot: 3 / 5
+[Timer: 32.86] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 33.1133] Bee 3 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 33.3656] Bee 3 woke up the bear
+--> [Timer: 33.3688] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 33.8743] Bee 3 filled the pot. Pot: 1 / 5
+[Timer: 34.1266] Bee 1 filled the pot. Pot: 2 / 5
+[Timer: 34.3791] Bee 3 filled the pot. Pot: 3 / 5
+[Timer: 34.6313] Bee 1 filled the pot. Pot: 4 / 5
+[Timer: 34.8826] Bee 2 filled the pot. Pot: 5 / 5
+
+----------------------------------------------------
+--> [Timer: 35.1341] Bee 2 woke up the bear
+--> [Timer: 35.1367] The bear ate. It was delicious!
+----------------------------------------------------
+
+
+The bear is full and asleep!
+
+	Тест №2:
+[Timer: 0.252486] Bee 4 filled the pot. Pot: 1 / 4
+[Timer: 0.505024] Bee 3 filled the pot. Pot: 2 / 4
+[Timer: 0.758071] Bee 6 filled the pot. Pot: 3 / 4
+[Timer: 1.00941] Bee 5 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 1.26098] Bee 5 woke up the bear
+--> [Timer: 1.26276] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 1.76506] Bee 5 filled the pot. Pot: 1 / 4
+[Timer: 2.01639] Bee 12 filled the pot. Pot: 2 / 4
+[Timer: 2.26901] Bee 11 filled the pot. Pot: 3 / 4
+[Timer: 2.52034] Bee 9 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 2.77186] Bee 9 woke up the bear
+--> [Timer: 2.77389] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 3.27509] Bee 2 filled the pot. Pot: 1 / 4
+[Timer: 3.52759] Bee 11 filled the pot. Pot: 2 / 4
+[Timer: 3.77986] Bee 4 filled the pot. Pot: 3 / 4
+[Timer: 4.03209] Bee 10 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 4.28366] Bee 10 woke up the bear
+--> [Timer: 4.28515] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 4.78613] Bee 15 filled the pot. Pot: 1 / 4
+[Timer: 5.03864] Bee 11 filled the pot. Pot: 2 / 4
+[Timer: 5.29077] Bee 12 filled the pot. Pot: 3 / 4
+[Timer: 5.54307] Bee 10 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 5.79542] Bee 10 woke up the bear
+--> [Timer: 5.79825] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 6.30006] Bee 10 filled the pot. Pot: 1 / 4
+[Timer: 6.55134] Bee 6 filled the pot. Pot: 2 / 4
+[Timer: 6.80271] Bee 5 filled the pot. Pot: 3 / 4
+[Timer: 7.05402] Bee 13 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 7.30534] Bee 13 woke up the bear
+--> [Timer: 7.30751] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 7.80887] Bee 5 filled the pot. Pot: 1 / 4
+[Timer: 8.0603] Bee 14 filled the pot. Pot: 2 / 4
+[Timer: 8.31279] Bee 3 filled the pot. Pot: 3 / 4
+[Timer: 8.56478] Bee 11 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 8.81738] Bee 11 woke up the bear
+--> [Timer: 8.8198] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 9.32204] Bee 8 filled the pot. Pot: 1 / 4
+[Timer: 9.5746] Bee 15 filled the pot. Pot: 2 / 4
+[Timer: 9.82971] Bee 9 filled the pot. Pot: 3 / 4
+[Timer: 10.0823] Bee 2 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 10.3344] Bee 2 woke up the bear
+--> [Timer: 10.3364] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 10.8381] Bee 12 filled the pot. Pot: 1 / 4
+[Timer: 11.0897] Bee 4 filled the pot. Pot: 2 / 4
+[Timer: 11.3414] Bee 8 filled the pot. Pot: 3 / 4
+[Timer: 11.5939] Bee 9 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 11.8459] Bee 9 woke up the bear
+--> [Timer: 11.8479] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 12.3496] Bee 7 filled the pot. Pot: 1 / 4
+[Timer: 12.602] Bee 4 filled the pot. Pot: 2 / 4
+[Timer: 12.8542] Bee 8 filled the pot. Pot: 3 / 4
+[Timer: 13.1058] Bee 5 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 13.3571] Bee 5 woke up the bear
+--> [Timer: 13.36] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 13.8607] Bee 2 filled the pot. Pot: 1 / 4
+[Timer: 14.1121] Bee 1 filled the pot. Pot: 2 / 4
+[Timer: 14.3639] Bee 15 filled the pot. Pot: 3 / 4
+[Timer: 14.6163] Bee 3 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 14.8694] Bee 3 woke up the bear
+--> [Timer: 14.8713] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 15.3724] Bee 2 filled the pot. Pot: 1 / 4
+[Timer: 15.6236] Bee 15 filled the pot. Pot: 2 / 4
+[Timer: 15.876] Bee 13 filled the pot. Pot: 3 / 4
+[Timer: 16.128] Bee 5 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 16.3801] Bee 5 woke up the bear
+--> [Timer: 16.3822] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 16.8835] Bee 2 filled the pot. Pot: 1 / 4
+[Timer: 17.1349] Bee 1 filled the pot. Pot: 2 / 4
+[Timer: 17.3862] Bee 7 filled the pot. Pot: 3 / 4
+[Timer: 17.6375] Bee 6 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 17.8888] Bee 6 woke up the bear
+--> [Timer: 17.8912] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 18.3935] Bee 8 filled the pot. Pot: 1 / 4
+[Timer: 18.6458] Bee 10 filled the pot. Pot: 2 / 4
+[Timer: 18.8994] Bee 15 filled the pot. Pot: 3 / 4
+[Timer: 19.1515] Bee 7 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 19.4038] Bee 7 woke up the bear
+--> [Timer: 19.4054] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 19.907] Bee 4 filled the pot. Pot: 1 / 4
+[Timer: 20.1587] Bee 1 filled the pot. Pot: 2 / 4
+[Timer: 20.4111] Bee 9 filled the pot. Pot: 3 / 4
+[Timer: 20.6634] Bee 8 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 20.9157] Bee 8 woke up the bear
+--> [Timer: 20.917] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 21.4185] Bee 15 filled the pot. Pot: 1 / 4
+[Timer: 21.6708] Bee 10 filled the pot. Pot: 2 / 4
+[Timer: 21.9229] Bee 4 filled the pot. Pot: 3 / 4
+[Timer: 22.1759] Bee 13 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 22.4272] Bee 13 woke up the bear
+--> [Timer: 22.431] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 22.9335] Bee 14 filled the pot. Pot: 1 / 4
+[Timer: 23.1858] Bee 11 filled the pot. Pot: 2 / 4
+[Timer: 23.4384] Bee 10 filled the pot. Pot: 3 / 4
+[Timer: 23.691] Bee 1 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 23.9433] Bee 1 woke up the bear
+--> [Timer: 23.9453] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 24.4463] Bee 2 filled the pot. Pot: 1 / 4
+[Timer: 24.6977] Bee 4 filled the pot. Pot: 2 / 4
+[Timer: 24.9503] Bee 10 filled the pot. Pot: 3 / 4
+[Timer: 25.2024] Bee 9 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 25.4537] Bee 9 woke up the bear
+--> [Timer: 25.4559] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 25.9574] Bee 8 filled the pot. Pot: 1 / 4
+[Timer: 26.2098] Bee 1 filled the pot. Pot: 2 / 4
+[Timer: 26.4621] Bee 14 filled the pot. Pot: 3 / 4
+[Timer: 26.7137] Bee 11 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 26.9658] Bee 11 woke up the bear
+--> [Timer: 26.9682] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 27.4702] Bee 11 filled the pot. Pot: 1 / 4
+[Timer: 27.7216] Bee 1 filled the pot. Pot: 2 / 4
+[Timer: 27.973] Bee 14 filled the pot. Pot: 3 / 4
+[Timer: 28.2253] Bee 12 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 28.4777] Bee 12 woke up the bear
+--> [Timer: 28.4797] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 28.9813] Bee 3 filled the pot. Pot: 1 / 4
+[Timer: 29.2326] Bee 5 filled the pot. Pot: 2 / 4
+[Timer: 29.485] Bee 4 filled the pot. Pot: 3 / 4
+[Timer: 29.7363] Bee 9 filled the pot. Pot: 4 / 4
+
+----------------------------------------------------
+--> [Timer: 29.9887] Bee 9 woke up the bear
+--> [Timer: 29.9908] The bear ate. It was delicious!
+----------------------------------------------------
+
+
+The bear is full and asleep!
+
+	Тест №3:
+[Timer: 0.253331] Bee 1 filled the pot. Pot: 1 / 7
+[Timer: 0.505449] Bee 6 filled the pot. Pot: 2 / 7
+[Timer: 0.757795] Bee 5 filled the pot. Pot: 3 / 7
+[Timer: 1.01104] Bee 4 filled the pot. Pot: 4 / 7
+[Timer: 1.26341] Bee 2 filled the pot. Pot: 5 / 7
+[Timer: 1.51466] Bee 7 filled the pot. Pot: 6 / 7
+[Timer: 1.76601] Bee 3 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 2.01734] Bee 3 woke up the bear
+--> [Timer: 2.01854] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 2.52025] Bee 3 filled the pot. Pot: 1 / 7
+[Timer: 2.77232] Bee 4 filled the pot. Pot: 2 / 7
+[Timer: 3.0244] Bee 7 filled the pot. Pot: 3 / 7
+[Timer: 3.27653] Bee 6 filled the pot. Pot: 4 / 7
+[Timer: 3.52883] Bee 5 filled the pot. Pot: 5 / 7
+[Timer: 3.78144] Bee 3 filled the pot. Pot: 6 / 7
+[Timer: 4.03448] Bee 1 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 4.28691] Bee 1 woke up the bear
+--> [Timer: 4.28807] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 4.7895] Bee 6 filled the pot. Pot: 1 / 7
+[Timer: 5.04144] Bee 5 filled the pot. Pot: 2 / 7
+[Timer: 5.29376] Bee 3 filled the pot. Pot: 3 / 7
+[Timer: 5.54596] Bee 1 filled the pot. Pot: 4 / 7
+[Timer: 5.79839] Bee 7 filled the pot. Pot: 5 / 7
+[Timer: 6.04963] Bee 5 filled the pot. Pot: 6 / 7
+[Timer: 6.30205] Bee 2 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 6.55631] Bee 2 woke up the bear
+--> [Timer: 6.5573] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 7.059] Bee 2 filled the pot. Pot: 1 / 7
+[Timer: 7.31028] Bee 3 filled the pot. Pot: 2 / 7
+[Timer: 7.56271] Bee 6 filled the pot. Pot: 3 / 7
+[Timer: 7.81496] Bee 5 filled the pot. Pot: 4 / 7
+[Timer: 8.06748] Bee 7 filled the pot. Pot: 5 / 7
+[Timer: 8.31967] Bee 1 filled the pot. Pot: 6 / 7
+[Timer: 8.57148] Bee 3 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 8.82392] Bee 3 woke up the bear
+--> [Timer: 8.82711] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 9.3297] Bee 1 filled the pot. Pot: 1 / 7
+[Timer: 9.58199] Bee 4 filled the pot. Pot: 2 / 7
+[Timer: 9.8341] Bee 5 filled the pot. Pot: 3 / 7
+[Timer: 10.0867] Bee 7 filled the pot. Pot: 4 / 7
+[Timer: 10.3387] Bee 2 filled the pot. Pot: 5 / 7
+[Timer: 10.5911] Bee 3 filled the pot. Pot: 6 / 7
+[Timer: 10.843] Bee 1 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 11.0956] Bee 1 woke up the bear
+--> [Timer: 11.0981] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 11.6003] Bee 5 filled the pot. Pot: 1 / 7
+[Timer: 11.8525] Bee 2 filled the pot. Pot: 2 / 7
+[Timer: 12.104] Bee 4 filled the pot. Pot: 3 / 7
+[Timer: 34.4823] Bee 6 filled the pot. Pot: 4 / 7
+[Timer: 34.7346] Bee 1 filled the pot. Pot: 5 / 7
+[Timer: 34.9859] Bee 3 filled the pot. Pot: 6 / 7
+[Timer: 35.2376] Bee 2 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 35.4897] Bee 2 woke up the bear
+--> [Timer: 35.4916] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 35.9934] Bee 6 filled the pot. Pot: 1 / 7
+[Timer: 36.2486] Bee 7 filled the pot. Pot: 2 / 7
+[Timer: 36.5093] Bee 3 filled the pot. Pot: 3 / 7
+[Timer: 36.7654] Bee 2 filled the pot. Pot: 4 / 7
+[Timer: 37.0227] Bee 1 filled the pot. Pot: 5 / 7
+[Timer: 37.2788] Bee 4 filled the pot. Pot: 6 / 7
+[Timer: 37.5364] Bee 7 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 37.7877] Bee 7 woke up the bear
+--> [Timer: 37.7903] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 38.2924] Bee 5 filled the pot. Pot: 1 / 7
+[Timer: 38.5444] Bee 4 filled the pot. Pot: 2 / 7
+[Timer: 38.7961] Bee 1 filled the pot. Pot: 3 / 7
+[Timer: 39.0475] Bee 6 filled the pot. Pot: 4 / 7
+[Timer: 39.2998] Bee 3 filled the pot. Pot: 5 / 7
+[Timer: 39.5511] Bee 2 filled the pot. Pot: 6 / 7
+[Timer: 39.8035] Bee 5 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 40.0547] Bee 5 woke up the bear
+--> [Timer: 40.0572] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 40.5584] Bee 7 filled the pot. Pot: 1 / 7
+[Timer: 40.8094] Bee 2 filled the pot. Pot: 2 / 7
+[Timer: 41.0627] Bee 1 filled the pot. Pot: 3 / 7
+[Timer: 41.3153] Bee 4 filled the pot. Pot: 4 / 7
+[Timer: 41.5671] Bee 3 filled the pot. Pot: 5 / 7
+[Timer: 41.8185] Bee 6 filled the pot. Pot: 6 / 7
+[Timer: 42.0708] Bee 2 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 42.3223] Bee 2 woke up the bear
+--> [Timer: 42.325] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 42.8273] Bee 4 filled the pot. Pot: 1 / 7
+[Timer: 43.0787] Bee 3 filled the pot. Pot: 2 / 7
+[Timer: 43.3313] Bee 1 filled the pot. Pot: 3 / 7
+[Timer: 43.5837] Bee 2 filled the pot. Pot: 4 / 7
+[Timer: 43.8358] Bee 5 filled the pot. Pot: 5 / 7
+[Timer: 44.0883] Bee 4 filled the pot. Pot: 6 / 7
+[Timer: 44.3404] Bee 7 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 44.592] Bee 7 woke up the bear
+--> [Timer: 44.5946] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 45.0994] Bee 4 filled the pot. Pot: 1 / 7
+[Timer: 45.3518] Bee 5 filled the pot. Pot: 2 / 7
+[Timer: 45.6035] Bee 3 filled the pot. Pot: 3 / 7
+[Timer: 45.8554] Bee 1 filled the pot. Pot: 4 / 7
+[Timer: 46.1073] Bee 2 filled the pot. Pot: 5 / 7
+[Timer: 46.3595] Bee 7 filled the pot. Pot: 6 / 7
+[Timer: 46.6117] Bee 4 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 46.8633] Bee 4 woke up the bear
+--> [Timer: 46.8656] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 47.3669] Bee 6 filled the pot. Pot: 1 / 7
+[Timer: 47.6184] Bee 7 filled the pot. Pot: 2 / 7
+[Timer: 47.8698] Bee 4 filled the pot. Pot: 3 / 7
+[Timer: 48.1221] Bee 5 filled the pot. Pot: 4 / 7
+[Timer: 48.3734] Bee 2 filled the pot. Pot: 5 / 7
+[Timer: 48.6259] Bee 3 filled the pot. Pot: 6 / 7
+[Timer: 48.8791] Bee 6 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 49.1312] Bee 6 woke up the bear
+--> [Timer: 49.134] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 49.6357] Bee 2 filled the pot. Pot: 1 / 7
+[Timer: 49.887] Bee 6 filled the pot. Pot: 2 / 7
+[Timer: 50.1393] Bee 5 filled the pot. Pot: 3 / 7
+[Timer: 50.3906] Bee 7 filled the pot. Pot: 4 / 7
+[Timer: 50.6425] Bee 3 filled the pot. Pot: 5 / 7
+[Timer: 50.8945] Bee 4 filled the pot. Pot: 6 / 7
+[Timer: 51.146] Bee 2 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 51.3978] Bee 2 woke up the bear
+--> [Timer: 51.401] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 51.9045] Bee 1 filled the pot. Pot: 1 / 7
+[Timer: 52.1559] Bee 6 filled the pot. Pot: 2 / 7
+[Timer: 52.4074] Bee 5 filled the pot. Pot: 3 / 7
+[Timer: 52.6595] Bee 2 filled the pot. Pot: 4 / 7
+[Timer: 52.9115] Bee 4 filled the pot. Pot: 5 / 7
+[Timer: 53.1629] Bee 7 filled the pot. Pot: 6 / 7
+[Timer: 53.4142] Bee 1 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 53.6656] Bee 1 woke up the bear
+--> [Timer: 53.6688] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 54.1705] Bee 2 filled the pot. Pot: 1 / 7
+[Timer: 54.4226] Bee 3 filled the pot. Pot: 2 / 7
+[Timer: 54.6747] Bee 6 filled the pot. Pot: 3 / 7
+[Timer: 54.9292] Bee 1 filled the pot. Pot: 4 / 7
+[Timer: 55.1814] Bee 5 filled the pot. Pot: 5 / 7
+[Timer: 55.4329] Bee 2 filled the pot. Pot: 6 / 7
+[Timer: 55.685] Bee 3 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 55.9366] Bee 3 woke up the bear
+--> [Timer: 55.9409] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 56.4428] Bee 5 filled the pot. Pot: 1 / 7
+[Timer: 56.6949] Bee 1 filled the pot. Pot: 2 / 7
+[Timer: 56.9472] Bee 6 filled the pot. Pot: 3 / 7
+[Timer: 57.1986] Bee 2 filled the pot. Pot: 4 / 7
+[Timer: 57.4499] Bee 4 filled the pot. Pot: 5 / 7
+[Timer: 57.7023] Bee 3 filled the pot. Pot: 6 / 7
+[Timer: 57.9543] Bee 7 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 58.206] Bee 7 woke up the bear
+--> [Timer: 58.2085] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 58.7107] Bee 3 filled the pot. Pot: 1 / 7
+[Timer: 58.962] Bee 2 filled the pot. Pot: 2 / 7
+[Timer: 59.2153] Bee 6 filled the pot. Pot: 3 / 7
+[Timer: 59.4667] Bee 5 filled the pot. Pot: 4 / 7
+[Timer: 59.7179] Bee 4 filled the pot. Pot: 5 / 7
+[Timer: 59.9701] Bee 3 filled the pot. Pot: 6 / 7
+[Timer: 60.2214] Bee 2 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 60.4727] Bee 2 woke up the bear
+--> [Timer: 60.4751] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 60.9769] Bee 6 filled the pot. Pot: 1 / 7
+[Timer: 61.2285] Bee 5 filled the pot. Pot: 2 / 7
+[Timer: 61.4807] Bee 2 filled the pot. Pot: 3 / 7
+[Timer: 61.7321] Bee 4 filled the pot. Pot: 4 / 7
+[Timer: 61.9834] Bee 1 filled the pot. Pot: 5 / 7
+[Timer: 62.2356] Bee 6 filled the pot. Pot: 6 / 7
+[Timer: 62.487] Bee 5 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 62.739] Bee 5 woke up the bear
+--> [Timer: 62.7416] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 63.2461] Bee 2 filled the pot. Pot: 1 / 7
+[Timer: 63.4984] Bee 1 filled the pot. Pot: 2 / 7
+[Timer: 63.751] Bee 3 filled the pot. Pot: 3 / 7
+[Timer: 64.0032] Bee 4 filled the pot. Pot: 4 / 7
+[Timer: 64.2549] Bee 5 filled the pot. Pot: 5 / 7
+[Timer: 64.5064] Bee 6 filled the pot. Pot: 6 / 7
+[Timer: 64.7579] Bee 2 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 65.01] Bee 2 woke up the bear
+--> [Timer: 65.0132] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 65.5158] Bee 6 filled the pot. Pot: 1 / 7
+[Timer: 65.7681] Bee 5 filled the pot. Pot: 2 / 7
+[Timer: 66.0195] Bee 4 filled the pot. Pot: 3 / 7
+[Timer: 66.271] Bee 1 filled the pot. Pot: 4 / 7
+[Timer: 66.5232] Bee 3 filled the pot. Pot: 5 / 7
+[Timer: 66.7754] Bee 2 filled the pot. Pot: 6 / 7
+[Timer: 67.0279] Bee 6 filled the pot. Pot: 7 / 7
+
+----------------------------------------------------
+--> [Timer: 67.28] Bee 6 woke up the bear
+--> [Timer: 67.2828] The bear ate. It was delicious!
+----------------------------------------------------
+
+
+The bear is full and asleep!
+
+	Тест №4:
+[Timer: 0.230676] Bee 1 filled the pot. Pot: 1 / 10
+[Timer: 0.483186] Bee 95 filled the pot. Pot: 2 / 10
+[Timer: 0.736252] Bee 3 filled the pot. Pot: 3 / 10
+[Timer: 0.987609] Bee 99 filled the pot. Pot: 4 / 10
+[Timer: 1.24015] Bee 100 filled the pot. Pot: 5 / 10
+[Timer: 1.49175] Bee 105 filled the pot. Pot: 6 / 10
+[Timer: 1.74468] Bee 111 filled the pot. Pot: 7 / 10
+[Timer: 1.99603] Bee 9 filled the pot. Pot: 8 / 10
+[Timer: 2.24847] Bee 8 filled the pot. Pot: 9 / 10
+[Timer: 2.50062] Bee 10 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 2.75297] Bee 10 woke up the bear
+--> [Timer: 2.76] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 3.26196] Bee 10 filled the pot. Pot: 1 / 10
+[Timer: 3.51471] Bee 8 filled the pot. Pot: 2 / 10
+[Timer: 3.76729] Bee 3 filled the pot. Pot: 3 / 10
+[Timer: 4.01885] Bee 999 filled the pot. Pot: 4 / 10
+[Timer: 4.27123] Bee 1 filled the pot. Pot: 5 / 10
+[Timer: 4.52353] Bee 998 filled the pot. Pot: 6 / 10
+[Timer: 4.77588] Bee 997 filled the pot. Pot: 7 / 10
+[Timer: 5.02823] Bee 784 filled the pot. Pot: 8 / 10
+[Timer: 5.28001] Bee 783 filled the pot. Pot: 9 / 10
+[Timer: 5.53216] Bee 785 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 5.78411] Bee 785 woke up the bear
+--> [Timer: 5.79179] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 6.29612] Bee 782 filled the pot. Pot: 1 / 10
+[Timer: 6.54749] Bee 100 filled the pot. Pot: 2 / 10
+[Timer: 6.79976] Bee 105 filled the pot. Pot: 3 / 10
+[Timer: 7.05122] Bee 9 filled the pot. Pot: 4 / 10
+[Timer: 7.30332] Bee 3 filled the pot. Pot: 5 / 10
+[Timer: 7.55524] Bee 1 filled the pot. Pot: 6 / 10
+[Timer: 7.8076] Bee 997 filled the pot. Pot: 7 / 10
+[Timer: 8.05992] Bee 783 filled the pot. Pot: 8 / 10
+[Timer: 8.31232] Bee 123 filled the pot. Pot: 9 / 10
+[Timer: 8.56459] Bee 16 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 8.81601] Bee 16 woke up the bear
+--> [Timer: 8.82346] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 9.32612] Bee 782 filled the pot. Pot: 1 / 10
+[Timer: 9.57705] Bee 105 filled the pot. Pot: 2 / 10
+[Timer: 9.82916] Bee 999 filled the pot. Pot: 3 / 10
+[Timer: 10.0813] Bee 998 filled the pot. Pot: 4 / 10
+[Timer: 10.3326] Bee 1 filled the pot. Pot: 5 / 10
+[Timer: 10.5849] Bee 12 filled the pot. Pot: 6 / 10
+[Timer: 10.837] Bee 997 filled the pot. Pot: 7 / 10
+[Timer: 11.0894] Bee 123 filled the pot. Pot: 8 / 10
+[Timer: 11.3408] Bee 990 filled the pot. Pot: 9 / 10
+[Timer: 11.5933] Bee 988 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 11.8454] Bee 988 woke up the bear
+--> [Timer: 11.8521] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 12.3563] Bee 8 filled the pot. Pot: 1 / 10
+[Timer: 12.6084] Bee 3 filled the pot. Pot: 2 / 10
+[Timer: 12.8607] Bee 998 filled the pot. Pot: 3 / 10
+[Timer: 13.113] Bee 1 filled the pot. Pot: 4 / 10
+[Timer: 13.3654] Bee 783 filled the pot. Pot: 5 / 10
+[Timer: 13.6177] Bee 111 filled the pot. Pot: 6 / 10
+[Timer: 13.8699] Bee 990 filled the pot. Pot: 7 / 10
+[Timer: 14.1222] Bee 100 filled the pot. Pot: 8 / 10
+[Timer: 14.3741] Bee 129 filled the pot. Pot: 9 / 10
+[Timer: 14.626] Bee 15 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 14.8783] Bee 15 woke up the bear
+--> [Timer: 14.8871] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 15.3906] Bee 15 filled the pot. Pot: 1 / 10
+[Timer: 15.6429] Bee 999 filled the pot. Pot: 2 / 10
+[Timer: 15.895] Bee 784 filled the pot. Pot: 3 / 10
+[Timer: 16.1473] Bee 998 filled the pot. Pot: 4 / 10
+[Timer: 16.3996] Bee 1 filled the pot. Pot: 5 / 10
+[Timer: 16.652] Bee 783 filled the pot. Pot: 6 / 10
+[Timer: 16.904] Bee 111 filled the pot. Pot: 7 / 10
+[Timer: 17.1566] Bee 990 filled the pot. Pot: 8 / 10
+[Timer: 17.4089] Bee 129 filled the pot. Pot: 9 / 10
+[Timer: 17.6611] Bee 988 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 17.9126] Bee 988 woke up the bear
+--> [Timer: 17.9216] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 18.425] Bee 99 filled the pot. Pot: 1 / 10
+[Timer: 18.6767] Bee 118 filled the pot. Pot: 2 / 10
+[Timer: 18.9287] Bee 8 filled the pot. Pot: 3 / 10
+[Timer: 19.1803] Bee 15 filled the pot. Pot: 4 / 10
+[Timer: 19.4325] Bee 999 filled the pot. Pot: 5 / 10
+[Timer: 19.6848] Bee 997 filled the pot. Pot: 6 / 10
+[Timer: 19.9371] Bee 998 filled the pot. Pot: 7 / 10
+[Timer: 20.1884] Bee 10 filled the pot. Pot: 8 / 10
+[Timer: 20.4407] Bee 16 filled the pot. Pot: 9 / 10
+[Timer: 20.6925] Bee 783 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 20.9441] Bee 783 woke up the bear
+--> [Timer: 20.956] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 21.461] Bee 118 filled the pot. Pot: 1 / 10
+[Timer: 21.713] Bee 12 filled the pot. Pot: 2 / 10
+[Timer: 21.9654] Bee 784 filled the pot. Pot: 3 / 10
+[Timer: 22.2175] Bee 123 filled the pot. Pot: 4 / 10
+[Timer: 22.4695] Bee 1 filled the pot. Pot: 5 / 10
+[Timer: 22.7207] Bee 998 filled the pot. Pot: 6 / 10
+[Timer: 22.9728] Bee 100 filled the pot. Pot: 7 / 10
+[Timer: 23.2253] Bee 129 filled the pot. Pot: 8 / 10
+[Timer: 23.4767] Bee 140 filled the pot. Pot: 9 / 10
+[Timer: 23.7288] Bee 23 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 23.9812] Bee 23 woke up the bear
+--> [Timer: 23.9902] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 24.4937] Bee 8 filled the pot. Pot: 1 / 10
+[Timer: 24.7457] Bee 999 filled the pot. Pot: 2 / 10
+[Timer: 24.9974] Bee 997 filled the pot. Pot: 3 / 10
+[Timer: 25.2489] Bee 10 filled the pot. Pot: 4 / 10
+[Timer: 25.5002] Bee 16 filled the pot. Pot: 5 / 10
+[Timer: 25.7526] Bee 100 filled the pot. Pot: 6 / 10
+[Timer: 26.0048] Bee 140 filled the pot. Pot: 7 / 10
+[Timer: 26.2573] Bee 3 filled the pot. Pot: 8 / 10
+[Timer: 26.5093] Bee 99 filled the pot. Pot: 9 / 10
+[Timer: 26.762] Bee 118 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 27.014] Bee 118 woke up the bear
+--> [Timer: 27.0228] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 27.5261] Bee 8 filled the pot. Pot: 1 / 10
+[Timer: 27.7782] Bee 1 filled the pot. Pot: 2 / 10
+[Timer: 28.0305] Bee 10 filled the pot. Pot: 3 / 10
+[Timer: 28.2828] Bee 129 filled the pot. Pot: 4 / 10
+[Timer: 28.5356] Bee 100 filled the pot. Pot: 5 / 10
+[Timer: 28.7878] Bee 140 filled the pot. Pot: 6 / 10
+[Timer: 29.0392] Bee 783 filled the pot. Pot: 7 / 10
+[Timer: 29.2915] Bee 99 filled the pot. Pot: 8 / 10
+[Timer: 29.5438] Bee 12 filled the pot. Pot: 9 / 10
+[Timer: 29.7962] Bee 23 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 30.0473] Bee 23 woke up the bear
+--> [Timer: 30.0571] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 30.5599] Bee 23 filled the pot. Pot: 1 / 10
+[Timer: 30.8113] Bee 769 filled the pot. Pot: 2 / 10
+[Timer: 31.0636] Bee 129 filled the pot. Pot: 3 / 10
+[Timer: 31.3149] Bee 3 filled the pot. Pot: 4 / 10
+[Timer: 31.5672] Bee 15 filled the pot. Pot: 5 / 10
+[Timer: 31.8186] Bee 783 filled the pot. Pot: 6 / 10
+[Timer: 32.0704] Bee 982 filled the pot. Pot: 7 / 10
+[Timer: 32.3226] Bee 12 filled the pot. Pot: 8 / 10
+[Timer: 32.5749] Bee 8 filled the pot. Pot: 9 / 10
+[Timer: 32.8272] Bee 784 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 33.0796] Bee 784 woke up the bear
+--> [Timer: 33.0881] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 33.5941] Bee 19 filled the pot. Pot: 1 / 10
+[Timer: 33.8452] Bee 10 filled the pot. Pot: 2 / 10
+[Timer: 34.0975] Bee 23 filled the pot. Pot: 3 / 10
+[Timer: 34.3498] Bee 100 filled the pot. Pot: 4 / 10
+[Timer: 34.6013] Bee 129 filled the pot. Pot: 5 / 10
+[Timer: 34.8534] Bee 99 filled the pot. Pot: 6 / 10
+[Timer: 35.106] Bee 783 filled the pot. Pot: 7 / 10
+[Timer: 35.3584] Bee 997 filled the pot. Pot: 8 / 10
+[Timer: 35.6105] Bee 1 filled the pot. Pot: 9 / 10
+[Timer: 35.8627] Bee 983 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 36.1141] Bee 983 woke up the bear
+--> [Timer: 36.1227] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 36.6257] Bee 31 filled the pot. Pot: 1 / 10
+[Timer: 36.8775] Bee 20 filled the pot. Pot: 2 / 10
+[Timer: 37.1291] Bee 105 filled the pot. Pot: 3 / 10
+[Timer: 37.3809] Bee 43 filled the pot. Pot: 4 / 10
+[Timer: 37.6323] Bee 19 filled the pot. Pot: 5 / 10
+[Timer: 37.8836] Bee 10 filled the pot. Pot: 6 / 10
+[Timer: 38.1362] Bee 23 filled the pot. Pot: 7 / 10
+[Timer: 38.3885] Bee 3 filled the pot. Pot: 8 / 10
+[Timer: 38.6398] Bee 15 filled the pot. Pot: 9 / 10
+[Timer: 38.892] Bee 982 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 39.1441] Bee 982 woke up the bear
+--> [Timer: 39.1531] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 39.6568] Bee 161 filled the pot. Pot: 1 / 10
+[Timer: 39.909] Bee 20 filled the pot. Pot: 2 / 10
+[Timer: 40.161] Bee 43 filled the pot. Pot: 3 / 10
+[Timer: 40.4128] Bee 769 filled the pot. Pot: 4 / 10
+[Timer: 40.6641] Bee 140 filled the pot. Pot: 5 / 10
+[Timer: 40.9155] Bee 100 filled the pot. Pot: 6 / 10
+[Timer: 41.1678] Bee 129 filled the pot. Pot: 7 / 10
+[Timer: 41.4191] Bee 99 filled the pot. Pot: 8 / 10
+[Timer: 41.6715] Bee 8 filled the pot. Pot: 9 / 10
+[Timer: 41.9232] Bee 159 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 42.1748] Bee 159 woke up the bear
+--> [Timer: 42.1837] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 42.6865] Bee 159 filled the pot. Pot: 1 / 10
+[Timer: 42.939] Bee 20 filled the pot. Pot: 2 / 10
+[Timer: 43.1911] Bee 43 filled the pot. Pot: 3 / 10
+[Timer: 43.4434] Bee 10 filled the pot. Pot: 4 / 10
+[Timer: 43.6954] Bee 140 filled the pot. Pot: 5 / 10
+[Timer: 43.9476] Bee 100 filled the pot. Pot: 6 / 10
+[Timer: 44.1999] Bee 129 filled the pot. Pot: 7 / 10
+[Timer: 44.4513] Bee 8 filled the pot. Pot: 8 / 10
+[Timer: 44.7046] Bee 982 filled the pot. Pot: 9 / 10
+[Timer: 44.9589] Bee 12 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 45.2121] Bee 12 woke up the bear
+--> [Timer: 45.2211] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 45.7246] Bee 13 filled the pot. Pot: 1 / 10
+[Timer: 45.9761] Bee 161 filled the pot. Pot: 2 / 10
+[Timer: 46.2284] Bee 159 filled the pot. Pot: 3 / 10
+[Timer: 46.4806] Bee 769 filled the pot. Pot: 4 / 10
+[Timer: 46.7319] Bee 23 filled the pot. Pot: 5 / 10
+[Timer: 46.9835] Bee 3 filled the pot. Pot: 6 / 10
+[Timer: 47.2359] Bee 140 filled the pot. Pot: 7 / 10
+[Timer: 47.488] Bee 99 filled the pot. Pot: 8 / 10
+[Timer: 47.7405] Bee 129 filled the pot. Pot: 9 / 10
+[Timer: 47.9929] Bee 8 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 48.246] Bee 8 woke up the bear
+--> [Timer: 48.2547] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 48.7573] Bee 8 filled the pot. Pot: 1 / 10
+[Timer: 49.0093] Bee 161 filled the pot. Pot: 2 / 10
+[Timer: 49.2646] Bee 20 filled the pot. Pot: 3 / 10
+[Timer: 49.516] Bee 43 filled the pot. Pot: 4 / 10
+[Timer: 49.7683] Bee 10 filled the pot. Pot: 5 / 10
+[Timer: 50.0205] Bee 15 filled the pot. Pot: 6 / 10
+[Timer: 50.2728] Bee 100 filled the pot. Pot: 7 / 10
+[Timer: 50.5254] Bee 31 filled the pot. Pot: 8 / 10
+[Timer: 50.7779] Bee 129 filled the pot. Pot: 9 / 10
+[Timer: 51.0322] Bee 105 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 51.2844] Bee 105 woke up the bear
+--> [Timer: 51.2968] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 51.8032] Bee 141 filled the pot. Pot: 1 / 10
+[Timer: 52.0553] Bee 13 filled the pot. Pot: 2 / 10
+[Timer: 52.3078] Bee 8 filled the pot. Pot: 3 / 10
+[Timer: 52.5601] Bee 159 filled the pot. Pot: 4 / 10
+[Timer: 52.8125] Bee 769 filled the pot. Pot: 5 / 10
+[Timer: 53.0642] Bee 23 filled the pot. Pot: 6 / 10
+[Timer: 53.3165] Bee 10 filled the pot. Pot: 7 / 10
+[Timer: 53.5689] Bee 140 filled the pot. Pot: 8 / 10
+[Timer: 53.8212] Bee 99 filled the pot. Pot: 9 / 10
+[Timer: 54.0736] Bee 31 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 54.3261] Bee 31 woke up the bear
+--> [Timer: 54.3349] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 54.8378] Bee 19 filled the pot. Pot: 1 / 10
+[Timer: 55.0903] Bee 161 filled the pot. Pot: 2 / 10
+[Timer: 55.3417] Bee 159 filled the pot. Pot: 3 / 10
+[Timer: 55.5938] Bee 43 filled the pot. Pot: 4 / 10
+[Timer: 55.8462] Bee 23 filled the pot. Pot: 5 / 10
+[Timer: 56.0985] Bee 10 filled the pot. Pot: 6 / 10
+[Timer: 56.3529] Bee 100 filled the pot. Pot: 7 / 10
+[Timer: 56.6054] Bee 99 filled the pot. Pot: 8 / 10
+[Timer: 56.8587] Bee 732 filled the pot. Pot: 9 / 10
+[Timer: 57.1133] Bee 141 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 57.3663] Bee 141 woke up the bear
+--> [Timer: 57.3768] The bear ate. It was delicious!
+----------------------------------------------------
+
+[Timer: 57.881] Bee 13 filled the pot. Pot: 1 / 10
+[Timer: 58.1323] Bee 20 filled the pot. Pot: 2 / 10
+[Timer: 58.3846] Bee 159 filled the pot. Pot: 3 / 10
+[Timer: 58.6369] Bee 3 filled the pot. Pot: 4 / 10
+[Timer: 58.889] Bee 23 filled the pot. Pot: 5 / 10
+[Timer: 59.1405] Bee 10 filled the pot. Pot: 6 / 10
+[Timer: 59.3918] Bee 982 filled the pot. Pot: 7 / 10
+[Timer: 59.6439] Bee 24 filled the pot. Pot: 8 / 10
+[Timer: 59.8962] Bee 732 filled the pot. Pot: 9 / 10
+[Timer: 60.1483] Bee 50 filled the pot. Pot: 10 / 10
+
+----------------------------------------------------
+--> [Timer: 60.4002] Bee 50 woke up the bear
+--> [Timer: 60.4115] The bear ate. It was delicious!
+----------------------------------------------------
+
+
+The bear is full and asleep!
+
+	Тест №5:
+Invalid number of pot capacity!
